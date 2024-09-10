@@ -1,16 +1,21 @@
-## Hi there 👋
+# About me
+<p><h2>👋🏻Hey! I'm Isroilov Raxmatilla. I'm Backend developer.</h2></p>
 
-<!--
-**Epicmine901/Epicmine901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Telegram:                           [Raxmatilla_5](https://t.me/Raxmatilla_5)
+## Main tools
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
+
+<details>
+  <summary><b><h2>Github Stats 📈 <h2></b></summary>
+  <a href="https://github.com/Epicmine901">
+    <p align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Epicmine901&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Epicmine901&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Epicmine901&theme=github_dark&utcOffset=5"><br>
+    </p>
+  </a> 
+</details>
