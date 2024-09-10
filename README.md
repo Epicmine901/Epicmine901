@@ -4,7 +4,7 @@
 
 - Telegram:                           [Raxmatilla_5](https://t.me/Raxmatilla_5)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
