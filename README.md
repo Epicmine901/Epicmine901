@@ -3,8 +3,9 @@
 
 
 - Telegram:                           [Raxmatilla_5](https://t.me/Raxmatilla_5)
-- LinkedIn:                           [Isroilov Raxmatilla](https://www.linkedin.com/in/raxmatilla-isroilov-219834329)
-- 
+- LinkedIn:                           [Raxmatilla](https://www.linkedin.com/in/raxmatilla-isroilov-219834329)
+- LeetCode:                           [Raxmatilla](https://leetcode.com/u/Raxmatilla)
+
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js)](https://skillicons.dev)
 
