@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)(https://leetcode.com/u/Raxmatilla)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
