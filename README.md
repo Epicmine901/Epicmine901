@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,visualstudio,pycharm,postman)](https://github.com/Epicmine901)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
